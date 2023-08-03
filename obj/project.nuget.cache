@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJcHace0kg2zaEyWpr8cVMQ193bGSi60rxww07nkSNVrtzX2YFmBAn7WuI6AiBjFsvwSKGowvnEmQ71QqZ8U2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

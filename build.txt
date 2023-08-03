@@ -1,0 +1,3 @@
+displayName = Pike Mod
+author = Valentine
+version = 0.1
