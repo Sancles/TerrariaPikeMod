@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj": {}
+    "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaPikeMod\\TerrariaPikeMod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj": {
+    "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaPikeMod\\TerrariaPikeMod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj",
-        "projectName": "PikeMod",
-        "projectPath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj",
+        "projectUniqueName": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaPikeMod\\TerrariaPikeMod.csproj",
+        "projectName": "TerrariaPikeMod",
+        "projectPath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaPikeMod\\TerrariaPikeMod.csproj",
         "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\obj\\",
+        "outputPath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaPikeMod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
