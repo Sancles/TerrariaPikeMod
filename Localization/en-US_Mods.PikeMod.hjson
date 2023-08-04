@@ -3,7 +3,7 @@
 Items: {
 	EarthSword: {
 		DisplayName: Sword Stolen from The Earth
-		Tooltip: ""
+		Tooltip: Shoots outs a spread of lasers
 	}
 
 	shimmerBar: {
@@ -17,12 +17,28 @@ Items: {
 	}
 
 	unobtanium: {
-		DisplayName: unobtanium
+		DisplayName: Developmentite
 		Tooltip: ""
+	}
+
+	shimmerTome: {
+		DisplayName: Glistening Words
+		Tooltip: Throws unstable shimmering matter
+	}
+
+	testAccessory: {
+		DisplayName: test Accessory
+		Tooltip:
+			'''
+			Lowers your defense by a third
+			Increases your armor penetration based on the amount lost.
+			'''
 	}
 }
 
 Projectiles: {
 	earthSwordProj.DisplayName: earth Sword Proj
 	earthSwordProjB.DisplayName: earth Sword Proj B
+	shimmerTomeProj.DisplayName: shimmer Tome Proj
+	shimmerTomeProjB.DisplayName: shimmer Tome Proj B
 }
