@@ -1,6 +1,11 @@
 # This file will automatically update with entries for new content after a build and reload
 
 Items: {
+	ardentDagger: {
+		DisplayName: Ardent Dagger
+		Tooltip: Stab your friends!
+	}
+
 	EarthSword: {
 		DisplayName: Sword Stolen from The Earth
 		Tooltip: Shoots outs a spread of lasers
