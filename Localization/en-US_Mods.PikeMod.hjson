@@ -52,6 +52,7 @@ Projectiles: {
 	shimmerTomeProj.DisplayName: shimmer Tome Proj
 	shimmerTomeProjB.DisplayName: shimmer Tome Proj B
 	meteorMalletProj.DisplayName: meteor Mallet Proj
+	ardentProj.DisplayName: ardent Proj
 }
 
 NPCs.testNPC.DisplayName: Slaughterer Zombie

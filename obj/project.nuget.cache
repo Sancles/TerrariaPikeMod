@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cJcHace0kg2zaEyWpr8cVMQ193bGSi60rxww07nkSNVrtzX2YFmBAn7WuI6AiBjFsvwSKGowvnEmQ71QqZ8U2w==",
+  "dgSpecHash": "zoWBUmxCldouVLPjoc3WtuJ7edFkBblpR/7deK8KV5cyuOaiOG3qb7yS/fqO8rqU4GkBKTE90pyijGPrAj5V/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj",
+  "projectFilePath": "C:\\Users\\Hellson\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\TerrariaPikeMod.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Korisnik\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+    "C:\\Users\\Hellson\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -31,19 +31,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Korisnik\\.nuget\\packages\\": {}
+    "C:\\Users\\Hellson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj",
-      "projectName": "PikeMod",
-      "projectPath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\PikeMod.csproj",
-      "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Korisnik\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\obj\\",
+      "projectUniqueName": "C:\\Users\\Hellson\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\TerrariaPikeMod.csproj",
+      "projectName": "TerrariaPikeMod",
+      "projectPath": "C:\\Users\\Hellson\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\TerrariaPikeMod.csproj",
+      "packagesPath": "C:\\Users\\Hellson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hellson\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\PikeMod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hellson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -90,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
