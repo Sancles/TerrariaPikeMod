@@ -39,6 +39,11 @@ Items: {
 			Increases your armor penetration based on the amount lost.
 			'''
 	}
+
+	meteorMallet: {
+		DisplayName: Meteor Mauler
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
@@ -46,6 +51,7 @@ Projectiles: {
 	earthSwordProjB.DisplayName: earth Sword Proj B
 	shimmerTomeProj.DisplayName: shimmer Tome Proj
 	shimmerTomeProjB.DisplayName: shimmer Tome Proj B
+	meteorMalletProj.DisplayName: meteor Mallet Proj
 }
 
 NPCs.testNPC.DisplayName: Slaughterer Zombie
