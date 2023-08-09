@@ -3,7 +3,7 @@
 Items: {
 	ardentDagger: {
 		DisplayName: Ardent Dagger
-		Tooltip: Stab your friends!
+		Tooltip: "'Stab your friends!'"
 	}
 
 	EarthSword: {
@@ -18,7 +18,7 @@ Items: {
 
 	shimmerMass: {
 		DisplayName: Shimmering Mass
-		Tooltip: Seems very unstable...
+		Tooltip: "'Seems very unstable...'"
 	}
 
 	unobtanium: {
@@ -44,15 +44,21 @@ Items: {
 		DisplayName: Meteor Mauler
 		Tooltip: ""
 	}
+
+	goldfishLauncher: {
+		DisplayName: Goldfish Launcher
+		Tooltip: "'This is an awful idea!'"
+	}
 }
 
 Projectiles: {
-	earthSwordProj.DisplayName: earth Sword Proj
-	earthSwordProjB.DisplayName: earth Sword Proj B
-	shimmerTomeProj.DisplayName: shimmer Tome Proj
-	shimmerTomeProjB.DisplayName: shimmer Tome Proj B
-	meteorMalletProj.DisplayName: meteor Mallet Proj
-	ardentProj.DisplayName: ardent Proj
+	earthSwordProj.DisplayName: Earth Laser
+	earthSwordProjB.DisplayName: Earth Laser
+	shimmerTomeProj.DisplayName: Shimmer Bolt
+	shimmerTomeProjB.DisplayName: Shimmer Bolt
+	meteorMalletProj.DisplayName: Meteor Mauler
+	ardentProj.DisplayName: Ardent Heart
+	goldfishProj.DisplayName: Goldfish
 }
 
 NPCs.testNPC.DisplayName: Slaughterer Zombie
